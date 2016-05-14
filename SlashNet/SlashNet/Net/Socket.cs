@@ -5,9 +5,9 @@ using System.Net.Sockets;
 using System.Threading;
 using System.Diagnostics;
 
-namespace Slash
+namespace Net
 {
-    public class Net
+    public class NetSocket
     {
 
         const int BUFF_SIZE =  65535;
@@ -15,7 +15,7 @@ namespace Slash
         private Socket clientSocket;
         private ByteBuf buf;
 
-        public Net()
+		public NetSocket()
         {
             buf = new ByteBuf(BUFF_SIZE);
         }
@@ -67,7 +67,7 @@ namespace Slash
                     Console.WriteLine("poll error");
                     this.Close();
                 }
-                
+
                 len = clientSocket.Receive(buf.GetRaw(), 0, HEAD_SIZE,
                                            SocketFlags.None);
 

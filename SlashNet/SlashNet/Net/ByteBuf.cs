@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Slash
+namespace Net
 {
 
     public class ByteBuf

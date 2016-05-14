@@ -1,6 +1,12 @@
 ﻿<Properties StartupItem="SlashNet/SlashNet.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SlashNet/SlashNet.cs">
+    <Files>
+      <File FileName="SlashNet/ByteBuf.cs" Line="294" Column="14" />
+      <File FileName="SlashNet/Program.cs" Line="11" Column="31" />
+      <File FileName="SlashNet/SlashNet.cs" Line="93" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

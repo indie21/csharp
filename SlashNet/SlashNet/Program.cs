@@ -1,4 +1,5 @@
 ﻿using System;
+using Net;
 
 namespace Slash
 {
@@ -6,7 +7,7 @@ namespace Slash
     {
         public static void Main (string[] args)
         {
-            Net net = new Net();
+			NetSocket net = new NetSocket();
             net.Connect("127.0.0.1", 8881);
             Console.ReadKey();
         }
