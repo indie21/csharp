@@ -1,0 +1,10 @@
+/Users/zhuoyikang/Projects/SlashNet/SlashNet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zhuoyikang/Projects/SlashNet/SlashNet/bin/Debug/SlashNet.exe.mdb
+/Users/zhuoyikang/Projects/SlashNet/SlashNet/bin/Debug/SlashNet.exe
+/Users/zhuoyikang/Projects/SlashNet/SlashNet/obj/x86/Debug/SlashNet.exe
+/Users/zhuoyikang/Projects/SlashNet/SlashNet/obj/x86/Debug/SlashNet.exe.mdb
+/Users/zhuoyikang/source/csharp/SlashNet/SlashNet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zhuoyikang/source/csharp/SlashNet/SlashNet/bin/Debug/SlashNet.exe.mdb
+/Users/zhuoyikang/source/csharp/SlashNet/SlashNet/bin/Debug/SlashNet.exe
+/Users/zhuoyikang/source/csharp/SlashNet/SlashNet/obj/x86/Debug/SlashNet.exe
+/Users/zhuoyikang/source/csharp/SlashNet/SlashNet/obj/x86/Debug/SlashNet.exe.mdb
