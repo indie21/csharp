@@ -1,10 +1,7 @@
-/**
- *  缓冲区
- **/ 
 using System;
 using System.Text;
 
-namespace cocosocket4unity
+namespace Slash
 {
     public class ByteBuf
     {

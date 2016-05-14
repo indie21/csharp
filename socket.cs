@@ -3,13 +3,20 @@ using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using Slash2;
 
-
-namespace Net
+namespace Slash
 {
     public class Test
     {
         static public void Main()
+        {
+            async();
+            Console.ReadKey();
+        }
+
+        // 同步连接服务器
+        static public void sync()
         {
             IPAddress ip = IPAddress.Parse("127.0.0.1");
             Socket clientSocket = new Socket(AddressFamily.InterNetwork,
@@ -24,7 +31,6 @@ namespace Net
             {
                 Console.WriteLine("连接服务器失败，请按回车键退出！");
             }
-            Console.ReadKey();
         }
     }
 }
